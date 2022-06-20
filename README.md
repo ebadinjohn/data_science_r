@@ -46,7 +46,7 @@ business owners that are fully settled in a location, _**tenants in social-rente
 these are working class or retired tenants who have no jobs or refuse to work 
 or are unable work and _**tenants in social-rented housing on long-term tenancies**_ – these are old 
 or retiree tenants that have no houses or are unable to rent one at market price.
-### Codes for this project are presented as follows:
+### Codes for this project are presented as follows above:
 - Data preparation codes
 - Classification codes
 - ARM codes
